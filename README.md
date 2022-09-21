@@ -1,4 +1,4 @@
-# CPSC 304 Team Project of Kelvin Li, Jin Niu and Mina Yang
+# CPSC 304 Team Project of Mina Yang, Kelvin Li, and Jin Niu
 
 
 Currrent Contents:
@@ -20,7 +20,6 @@ project-test-2.php (Mina Yang's portion done by Nov 25)
 **project_m4_ddl.sql - The finalized SQL DDL script of the project (M4)**
 
 **project-test-3.php (Jin Niu's portion done by Nov 24)**
- - (Jin Niu & Kelvin Li MERGED by Nov 24)
  - (Mina Yang & Jin Niu & Kelvin Li MERGED by Nov 25)
  - (minor updates by Nov 26)
  - demo on cs server https://www.students.cs.ubc.ca/~keweili9/project-test-3.php
